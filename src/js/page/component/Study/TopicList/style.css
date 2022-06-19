@@ -1,0 +1,6 @@
+.topic_list{
+    list-style-type: none;
+}
+.topic_will_learn .topic_list li{
+    display: inline-block;
+}

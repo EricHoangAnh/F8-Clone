@@ -1,0 +1,45 @@
+.preview {
+  position: relative;
+}
+.img_preview {
+  width: 100%;
+  border-radius: 15px;
+  transition: all 0.3s linear;
+}
+.preview svg {
+  position: absolute;
+  top: 35%;
+  left: 43%;
+  cursor: pointer;
+}
+.preview a {
+  text-align: center;
+  color: #fff;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 2.5%;
+  z-index: 1;
+  text-decoration: none;
+}
+.content_2 h5 {
+  text-align: center;
+  color: #f05123;
+  margin: 20px 0;
+}
+.content_2 button {
+  margin: auto;
+  padding: 10px 30px;
+  border-radius: 15px;
+  border: none;
+  background-color: #f05123;
+  color: #fff;
+  margin: 20px 0;
+}
+.content_2 ul {
+  display: inline-block;
+  margin: auto;
+  padding: 0;
+}
+.content_2 ul li {
+}
